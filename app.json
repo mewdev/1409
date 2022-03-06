@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "Hyp4g",
+    "description": "123123",
+    "keywords": ["123123"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -12,6 +12,5 @@
             "value": "/ws"
         }
     },
-    "repository": "https://github.com/mewdev/v2ray-heroku",
     "stack": "container"
 }
